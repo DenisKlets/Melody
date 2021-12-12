@@ -1,5 +1,5 @@
 # melody - Study project of GLO Academy
-## Проект выполни: Денис Клец
+## Проект выполнил: Денис Клец
 
 # Technologies
 - html
